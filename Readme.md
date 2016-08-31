@@ -1,1 +1,0 @@
-Deze repository bevat de source voor de DB SQL Advanced cases.
